@@ -1,0 +1,6 @@
+{
+  "name": "مغامرات أبطال الرياضيات الصغار",
+  "description": "لعبة رياضيات تعليمية وتفاعلية محببة للأطفال في الصفين الأول والثاني الابتدائي مع شخصيات كرتونية ومكافآت بصرية مشوقة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
